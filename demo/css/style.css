@@ -1,4 +1,17 @@
-#kalkulator-body {
-    width: 60%;
-    min-width: 370px;
+body {
+    background: linear-gradient(130deg, rgba(234,234,234,1) 20%, rgba(200,200,200,1) 40%, rgba(240,240,240,1) 85%);
+}
+
+section {
+    height: 100vh;
+}
+
+#inputbox {
+    background: linear-gradient(180deg, rgba(210,210,210,1) 50%, rgba(205,205,205,1) 51%);
+    font-family: ds-digital;
+    font-weight: 650;height: 80px;
+}
+
+button {
+    border: 1.5px solid black;
 }

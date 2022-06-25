@@ -9,12 +9,22 @@ module.exports = {
         oren: '#f97316',
         border: '#737373',
         operator: '#f1f5f9',
-        inputbox: '#d6d3d1'
+        exborder: '#292524'
       },
-      gridAutoRows: {
-        '5fr': 'minmax(0, 5fr)',
+      width: {
+        hp: '90%',
+        tablet: '60%',
+      },
+      minWidth: {
+        vsm: '270px',
+      },
+      maxWidth: {
+        sedang: '448px',
+      },
+      screens: {
+        miniScreen: '350px',
       }
     },
   },
-  plugins: [],
+  plugins: ["autoprefixer", "postcss"]
 }

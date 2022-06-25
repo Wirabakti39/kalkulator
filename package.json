@@ -1,13 +1,13 @@
 {
   "name": "kalkulator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0",
+  "description": "website kalkulator sederhana",
   "main": "kalkulator.html",
   "scripts": {
     "dwbrun": "npx tailwindcss -i ./src/css/input.css -o ./demo/css/output.css --watch"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["dwbcalculate"],
+  "author": "DwB",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.7",
