@@ -21,6 +21,12 @@ module.exports = {
       maxWidth: {
         sedang: '448px',
       },
+      height: {
+        fullScreen: '100vh',
+      },
+      minHeight: {
+        pendek: '500px',
+      },
       screens: {
         miniScreen: '350px',
       }

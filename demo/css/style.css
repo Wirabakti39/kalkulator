@@ -1,9 +1,6 @@
 body {
     background: linear-gradient(130deg, rgba(234,234,234,1) 20%, rgba(200,200,200,1) 40%, rgba(240,240,240,1) 85%);
-}
-
-section {
-    height: 100vh;
+    background-repeat: no-repeat;
 }
 
 #inputbox {
